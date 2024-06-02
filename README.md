@@ -9,6 +9,9 @@ The primary aim of this project is to design and implement a network infrastruct
 - **Network Optimization:** Design a network layout that optimizes communication and data transfer between various departments while ensuring security and reliability.
 - **Scalability:** Implement a network infrastructure that can easily accommodate future expansions and technological advancements.
 
+
+
+
 ## Features
 1. **Three Routers:** Connect each floor with routers placed in the server room in the IT department.
 2. **Inter-Router Connections:** Connect all routers using serial DCE cables.
@@ -36,7 +39,7 @@ Participants will learn:
 
 ## Tentative Output
 The expected output of this project is a fully functional Hotel Management System prototype, implemented and tested within the Cisco Packet Tracer environment. The prototype will demonstrate the key features outlined above and showcase the integration of various modules to automate hotel operations effectively. Additionally, documentation including system architecture, user manuals, and troubleshooting guides will be provided to facilitate understanding and future maintenance of the system.
-
+![Viewport](https://github.com/Subulzaidi/Hotel_Management_system/assets/121538773/7eb46b53-5f15-481f-b7e1-2b7cf7c7de5a)
 ## Repository Structure
 Your GitHub repository for this project should include the following structure:
 
